@@ -16,13 +16,13 @@
         android:key="@string/prefs_custom_hostname"
         android:singleLine="true"
         android:title="Custom host name"
-        android:defaultValue="pklinken.github.io" />
+        android:defaultValue="pklinken.gitlab.io" />
     <pk.contender.earmouse.CustomEditTextPreference
         android:dependency="@string/prefs_custom_host_toggle"
         android:key="@string/prefs_custom_path"
         android:singleLine="true"
         android:title="Custom host path"
-        android:defaultValue="/Earmouse/Earmouse_localized/" />
+        android:defaultValue="/plain-html/earmouse/" />
     <pk.contender.earmouse.CustomEditTextPreference
         android:dependency="@string/prefs_custom_host_toggle"
         android:key="@string/prefs_custom_port"

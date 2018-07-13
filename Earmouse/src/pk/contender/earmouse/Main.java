@@ -63,13 +63,13 @@ public class Main extends Activity implements ModuleListFragment.OnModuleSelecte
     public static final String VERSION = "v1.2";
 
     /** The default server address to use for fetching remote data */
-    public static final String SERVER_HOST = "pklinken.github.io";
+    public static final String SERVER_HOST = "pklinken.gitlab.io";
     /** The default server port to use for fetching remote data */
     public static final int SERVER_PORT = 80;
     /** The default path on the server where the data can be found */
-    public static final String SERVER_PATH = "/Earmouse/Earmouse_localized/";
+    public static final String SERVER_PATH = "/plain-html/earmouse/";
     /** The full default url */
-    public static final String SERVER_URL = "http://" + SERVER_HOST + ":" + SERVER_PORT + SERVER_PATH;
+    public static final String SERVER_URL = "https://" + SERVER_HOST + ":" + SERVER_PORT + SERVER_PATH;
     /** Available locales */
     public static final String[] SUPPORTED_LOCALES = { "de" };
 
