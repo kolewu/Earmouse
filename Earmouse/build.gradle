@@ -1,7 +1,8 @@
 apply plugin: 'com.android.application'
 
 repositories {
-    mavenCentral()
+    jcenter()
+    google()
 }
 
 dependencies {
