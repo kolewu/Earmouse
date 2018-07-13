@@ -5,16 +5,16 @@ repositories {
 }
 
 dependencies {
-    compile 'com.google.code.gson:gson:2.3'
-    compile 'com.android.support:percent:22.2.0'
-    compile 'com.google.guava:guava:17.0'
-    compile 'joda-time:joda-time:2.5'
+    implementation 'com.google.code.gson:gson:2.3'
+    implementation 'com.android.support:percent:22.2.0'
+    implementation 'com.google.guava:guava:17.0'
+    implementation 'joda-time:joda-time:2.5'
     // compile 'com.android.support:support-v4:19.1.0'
 }
 
 android {
     compileSdkVersion 19
-    buildToolsVersion '19.1.0'
+    buildToolsVersion '27.0.3'
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_7
         targetCompatibility JavaVersion.VERSION_1_7
@@ -31,7 +31,7 @@ android {
         }
 
         // Move the tests to tests/java, tests/res, etc...
-        instrumentTest.setRoot('tests')
+        //instrumentTest.setRoot('tests')
 
         // Move the build types to build-types/<type>
         // For instance, build-types/debug/java, build-types/debug/AndroidManifest.xml, ...
