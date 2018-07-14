@@ -1,1 +1,78 @@
-{"moduleVersion": 1, "shortDescription": "7 descending intervals", "title": "Intervals 3b", "highestNote": 41, "moduleId": 8, "version": "0.2", "description": "In this module you will practice the seven intervals in the major scale, the major 2nd, 3rd, 6th and 7th, and the perfect 4th, 5th and octave. The notes will be played as a descending sequence.", "exerciseList": [[[0], [-2]], [[0], [-4]], [[0], [-5]], [[0], [-7]], [[0], [-9]], [[0], [-11]], [[0], [12]]], "lowestNote": 12, "answerList": ["Major 2nd", "Major 3rd", "Perfect 4th", "Perfect 5th", "Major 6th", "Major 7th", "Octave"], "difficulty": 1}
+{
+  "moduleVersion": 1,
+  "shortDescription": "7 descending intervals",
+  "title": "Intervals 3b",
+  "highestNote": 41,
+  "moduleId": 8,
+  "version": "0.2",
+  "description": "In this module you will practice the seven intervals in the major scale, the major 2nd, 3rd, 6th and 7th, and the perfect 4th, 5th and octave. The notes will be played as a descending sequence.",
+  "exerciseList": [
+    [
+      [
+        0
+      ],
+      [
+        -2
+      ]
+    ],
+    [
+      [
+        0
+      ],
+      [
+        -4
+      ]
+    ],
+    [
+      [
+        0
+      ],
+      [
+        -5
+      ]
+    ],
+    [
+      [
+        0
+      ],
+      [
+        -7
+      ]
+    ],
+    [
+      [
+        0
+      ],
+      [
+        -9
+      ]
+    ],
+    [
+      [
+        0
+      ],
+      [
+        -11
+      ]
+    ],
+    [
+      [
+        0
+      ],
+      [
+        -12
+      ]
+    ]
+  ],
+  "lowestNote": 12,
+  "answerList": [
+    "Major 2nd",
+    "Major 3rd",
+    "Perfect 4th",
+    "Perfect 5th",
+    "Major 6th",
+    "Major 7th",
+    "Octave"
+  ],
+  "difficulty": 1
+}
