@@ -15,3 +15,6 @@ Learn to tell apart different musical intervals and chords through one of the
 many available modules.
 
 =====================================================
+
+Bitcoin donations welcome: 1FdwmPaKhE6pmPRxNHcWh3yFDo3mdtMPy
+
