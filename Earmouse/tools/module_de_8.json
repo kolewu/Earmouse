@@ -1,1 +1,78 @@
-{"moduleVersion": 1, "shortDescription": "7 absteigende Intervalle", "title": "Intervalle 3b", "highestNote": 41, "moduleId": 8, "version": "0.2", "description": "In diesem Modul werden die sieben Intervalle der Dur-Tonleiter geübt: Die große Sekunde, große Terz, große Sexte, große Septime sowie reine Quarte, reine Quinte und Oktave. Die Töne werden in absteigender Sequenz gespielt.", "exerciseList": [[[0], [-2]], [[0], [-4]], [[0], [-5]], [[0], [-7]], [[0], [-9]], [[0], [-11]], [[0], [12]]], "lowestNote": 12, "answerList": ["Große Sekunde", "Große Terz", "Reine Quarte", "Reine Quinte", "Große Sexte", "Große Septime", "Oktave"], "difficulty": 1}
+{
+  "moduleVersion": 1,
+  "shortDescription": "7 absteigende Intervalle",
+  "title": "Intervalle 3b",
+  "highestNote": 41,
+  "moduleId": 8,
+  "version": "0.2",
+  "description": "In diesem Modul werden die sieben Intervalle der Dur-Tonleiter geübt: Die große Sekunde, große Terz, große Sexte, große Septime sowie reine Quarte, reine Quinte und Oktave. Die Töne werden in absteigender Sequenz gespielt.",
+  "exerciseList": [
+    [
+      [
+        0
+      ],
+      [
+        -2
+      ]
+    ],
+    [
+      [
+        0
+      ],
+      [
+        -4
+      ]
+    ],
+    [
+      [
+        0
+      ],
+      [
+        -5
+      ]
+    ],
+    [
+      [
+        0
+      ],
+      [
+        -7
+      ]
+    ],
+    [
+      [
+        0
+      ],
+      [
+        -9
+      ]
+    ],
+    [
+      [
+        0
+      ],
+      [
+        -11
+      ]
+    ],
+    [
+      [
+        0
+      ],
+      [
+        -12
+      ]
+    ]
+  ],
+  "lowestNote": 12,
+  "answerList": [
+    "Große Sekunde",
+    "Große Terz",
+    "Reine Quarte",
+    "Reine Quinte",
+    "Große Sexte",
+    "Große Septime",
+    "Oktave"
+  ],
+  "difficulty": 1
+}
